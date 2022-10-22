@@ -24,7 +24,8 @@
       "defaultConfiguration": "development",
       "options": {
         "buildTarget": "soccer-polls:build",
-        "dev": true
+        "dev": true,
+        "proxyConfig": "apps/soccer-polls/proxy.conf.json"
       },
       "configurations": {
         "development": {
